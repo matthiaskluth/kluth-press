@@ -1,0 +1,23 @@
+{
+    "name": "kluth/press",
+    "description": "",
+    "authors": [
+        {
+            "name": "Matthias Kluth",
+            "email": "matthias@kluth.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Kluth\\Press": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
