@@ -1,9 +1,7 @@
 {
     "name": "kluth/press",
-    "description": "Press is a package, giving the option, to add
-    add press articles, one found on the web. It's very basic, but will
-    be extended soon.",
-    "license": "GPLv2"
+    "description": "Press is a package, giving the option, to add press articles, one found on the web. It's very basic, but will be extended soon.",
+    "license": "GPLv2",
     "authors": [
         {
             "name": "Matthias Kluth",
